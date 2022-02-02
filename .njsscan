@@ -1,0 +1,5 @@
+---
+- nodejs-extensions:
+  ignore-paths:
+  - dist
+  - node_modules
