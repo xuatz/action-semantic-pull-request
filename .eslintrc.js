@@ -1,9 +1,8 @@
-// This enables ESLint to use dependencies of this config
-// (see https://github.com/eslint/eslint/issues/3458)
-require('eslint-config-molindo/setupPlugins');
-
 module.exports = {
-  extends: 'molindo/javascript',
+  extends: [
+    "eslint:recommended",
+    "plugin:node/recommended"
+  ],
   env: {
     node: true,
     jest: true
