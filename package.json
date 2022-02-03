@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amannn/action-semantic-pull-request.git"
+    "url": "git+https://github.com/asurion-private/action-semantic-pull-request.git"
   },
   "keywords": [
     "github-action",
@@ -19,9 +19,9 @@
   "author": "Jan Amann <jan@amann.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amannn/action-semantic-pull-request/issues"
+    "url": "https://github.com/asurion-private/action-semantic-pull-request/issues"
   },
-  "homepage": "https://github.com/amannn/action-semantic-pull-request#readme",
+  "homepage": "https://github.com/asurion-private/action-semantic-pull-request#readme",
   "dependencies": {
     "@actions/core": "^1.6.0",
     "@actions/github": "^5.0.0",
